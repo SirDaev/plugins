@@ -15,7 +15,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "fastify": "^3.19.0",
+    "fastify": "^3.20.0",
     "fastify-compress": "^3.6.0",
     "fastify-static": "^4.2.0",
     "gatsby": "^3.6.1",
